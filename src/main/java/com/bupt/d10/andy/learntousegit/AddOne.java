@@ -10,6 +10,7 @@ import android.widget.Toast;
 public class AddOne {
     public void  showNumber(){
         Log.i("test","test");
+        Log.i("test","test");
     }
     private int numberTwo = 5;
 }
