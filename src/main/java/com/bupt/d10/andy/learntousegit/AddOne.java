@@ -11,6 +11,9 @@ public class AddOne {
     public void  showNumber(){
         Log.i("test","test");
         Log.i("test","test");
+        Log.i("test","test");
+        Log.i("test","t" +
+                "est");
     }
     private int numberTwo = 5;
 }
